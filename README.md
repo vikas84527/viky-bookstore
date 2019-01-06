@@ -1,3 +1,3 @@
 # viky-bookstore
 
-Spring boot, hibernate, mysql, thymleaf, JQuery Datatable .
+Spring boot,JPA, Security, hibernate, mysql, thymleaf, JQuery Datatable .
